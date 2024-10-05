@@ -9,3 +9,5 @@ For this week 3, we focused on creating a console-based interface for working wi
 Week 4
 In week four we focused on inheritance and we implemented some inheritance techniques into the stock program. We made additional classes and files and we ran some unit tests. Noteworthy parts of this week were creating the code for our Retirement_Account class. Which included code for traditional and robo accounts.
 
+Week 5
+For this week, we used the pyplot class from the matplotlib library to create a chart showing stock prices over time.
