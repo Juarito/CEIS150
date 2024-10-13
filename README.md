@@ -11,3 +11,6 @@ In week four we focused on inheritance and we implemented some inheritance techn
 
 Week 5
 For this week, we used the pyplot class from the matplotlib library to create a chart showing stock prices over time.
+
+Week 6
+In week 6 we implemented the ability to load data from a csv file. We read data from the file as well.
