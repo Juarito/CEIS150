@@ -14,3 +14,6 @@ For this week, we used the pyplot class from the matplotlib library to create a 
 
 Week 6
 In week 6 we implemented the ability to load data from a csv file. We read data from the file as well.
+
+Week 7
+For this part of the project we created a GUI for our stock trading program. We used the tkinter library which is the interface for the Tk toolkit. The main reason we used this library is that it is cross-platform.
